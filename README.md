@@ -4,7 +4,7 @@ erik.frankling@frankling.se | [LinkedIn](https://www.linkedin.com/in/erik-frankl
 
 CS student at KTH, year 3 of 5. I've tried development in all kinds of languages and places in the stack but mostly enjoy systems programming, cloud-native things, and spending LLM tokens I can't afford.
 
-I usually reach for Go, Rust, C, and C++. Bet when i have the opertunity i will always pick Zig. Also comfortable with Python, JavaScript, C#, and probably several others I'm forgetting.
+I usually reach for Go, Rust, C, and C++. But when I have the opportunity i will always pick Zig. Also comfortable with Python, JavaScript, C#, and probably several others I'm forgetting.
 
 I have spent way too much time going down the dev environment rabbit hole. A [NixOS config](https://github.com/ErikFrankling/.dotfiles), a [3D-printed hand-soldered Dactyl keyboard](https://github.com/ErikFrankling/dactyl-manuform-keyboard), a [Neovim config](https://github.com/ErikFrankling/nvim) I've rewritten at least four times, and most recently an obsession with self-hosting everything I use on my [home lab](https://github.com/ErikFrankling/homelab).
 
