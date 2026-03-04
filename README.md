@@ -42,6 +42,7 @@ Previously interned at Ericsson's research department doing Kubernetes-based 5G 
 
 </p>
   <img width="400" alt="cloud" src="https://github.com/user-attachments/assets/a9fd699c-fddb-4038-b5ee-dfab6d04b1d7" />
+  <img width="275" src="https://github.com/user-attachments/assets/5b766ed2-31ff-4a88-b464-83eaf89b58a8" />
 <p>
 
 </p>
